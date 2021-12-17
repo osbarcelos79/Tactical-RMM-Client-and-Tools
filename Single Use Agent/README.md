@@ -1,4 +1,4 @@
-# Single Use Agent
+# Single Use Agent (On Demand)
 ##### The single use agent will disconnect from MeshCentral when closed and or denied. The app will determine if the machine is 32bit and or 64bit and run the proper portable MeshCentral Agent within the background. An elevation prompt as been added and will re-run the agent with specified credentials if administrator access is needed to interact with an administrative window. 
 ## Setup
 1. Navigate to MeshCentral and create a new group for the single use agents. Set the permissions/Notifications you need and or want after creation. In this case, we went for the “ScreenConnect” method and enabled Consent to Control. Generate an invite URL (Interactive Only) and navigate to the URL on your host machine. Download both the 64bit and 32bit executables needed. Upload both EXE’s to a web server of choice and adjust the names to your liking. 
