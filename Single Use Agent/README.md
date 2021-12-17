@@ -7,6 +7,9 @@
 2. Within the form “Form1”, adjust the URL’s to your mesh agent file’s recently uploaded. Then compile and upload the stub somewhere where user’s can download and launch. That’s it! If you wish to adjust logo’s and other settings, feel free to do this before compiling the source. 
 
 
+Now when a user call's in and need's support. Have them download the single use agent and navigate to MeshCentral via the RMM client. Once opened, simply connect to their machine and begin.
+
+
 ![](https://nabyte.com/imgs/2e5c030b6c8ae2a4bd8f50a31f49487a1be7af72Capture.png)
 #### Main Menu
 ![](https://nabyte.com/imgs/ba75a9d9c8bd4bbbe8de1b2b4048b8904b92a1c91.png)
