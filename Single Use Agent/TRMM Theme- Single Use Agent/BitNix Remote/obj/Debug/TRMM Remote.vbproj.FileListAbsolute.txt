@@ -1,0 +1,18 @@
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM Remote.vbprojAssemblyReference.cache
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM Remote.vbproj.GenerateResource.cache
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM Remote.vbproj.CoreCompileInputs.cache
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM_Remote.Elevate.resources
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM_Remote.TRMMRemote.resources
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM_Remote.BREMOTE.resources
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM_Remote.Resources.resources
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\bin\Debug\TRMM Remote.exe.config
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\bin\Debug\TRMM Remote.exe.manifest
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\bin\Debug\TRMM Remote.application
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\bin\Debug\TRMM Remote.exe
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\bin\Debug\TRMM Remote.pdb
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\bin\Debug\TRMM Remote.xml
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM Remote.exe.manifest
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM Remote.application
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM Remote.exe
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM Remote.xml
+C:\Users\asghj\source\repos\TRMM Theme- Single Use Agent\BitNix Remote\obj\Debug\TRMM Remote.pdb

@@ -1,0 +1,18 @@
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\bin\Debug\BitNix Remote.exe.config
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\bin\Debug\BitNix Remote.exe
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\bin\Debug\BitNix Remote.pdb
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\bin\Debug\BitNix Remote.xml
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix Remote.vbprojAssemblyReference.cache
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix_Remote.BitRemote.resources
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix_Remote.Resources.resources
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix Remote.vbproj.GenerateResource.cache
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix Remote.vbproj.CoreCompileInputs.cache
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix Remote.exe
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix Remote.xml
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix Remote.pdb
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix_Remote.BREMOTE.resources
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\bin\Debug\BitNix Remote.exe.manifest
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\bin\Debug\BitNix Remote.application
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix Remote.exe.manifest
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix Remote.application
+C:\Users\asghj\source\repos\BitNix Remote\BitNix Remote\obj\Debug\BitNix_Remote.Elevate.resources
